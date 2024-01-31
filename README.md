@@ -21,8 +21,8 @@
 
 ## Community
 
-<a href="https://codeforyamaguchi.org">Code for Yamaguchi</a> Founder
-<a href="https://iwakenlab.jp/">Iwaken Lab.</a> Member
+- <a href="https://codeforyamaguchi.org">Code for Yamaguchi</a> Founder</br>
+- <a href="https://iwakenlab.jp/">Iwaken Lab.</a> Member
 
 ## Languages & Tools:
 <p align="left">
