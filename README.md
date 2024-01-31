@@ -9,9 +9,6 @@
 <a href="mailto:mail@nishida.dev">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCzwjLs7K5kqsCHSQtlF1lSA">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" />
-</a> 
 <a href="https://github.com/nisshi-dev">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />
 </a>
@@ -21,6 +18,11 @@
 ## About Me 🚀:
 😆 I’m an interactive Web Developer & Entrepreneur. </br>
 👨‍💻 I am interested in exploring the fields of Web Development, VR Development, & I enjoy creating new things. </br>
+
+## Community
+
+<a href="https://codeforyamaguchi.org">Code for Yamaguchi</a> Founder
+<a href="https://iwakenlab.jp/">Iwaken Lab.</a> Member
 
 ## Languages & Tools:
 <p align="left">
